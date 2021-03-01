@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Budget Manager/task/build/
+/Budget Manager/task/build/classes/java/main/
+/Budget Manager/task/build/classes/java/test/
